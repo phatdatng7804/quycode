@@ -1,0 +1,3 @@
+PyQt5
+requests
+flask >= 2.3.2
